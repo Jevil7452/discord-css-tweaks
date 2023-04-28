@@ -1,0 +1,8 @@
+.newMessagesBar-1hF-9G {
+    height: 24px;
+    top: 0;
+    border-radius: 0 0 0px 0px;
+    background-color: var(--brand-experiment);
+    -webkit-box-shadow: var(--elevation-low);
+    box-shadow: var(--elevation-low);
+}
